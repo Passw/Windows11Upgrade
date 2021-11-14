@@ -28,4 +28,4 @@ jobs:
       run: |
         git remote add up https://github.com/coofcookie/Windows11Upgrade.git
         git pull up main -r
-        git push origin HEAD:master --force
+        git push origin HEAD:main --force
